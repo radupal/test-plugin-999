@@ -1,7 +1,7 @@
 {
   "IDAMetadataDescriptorVersion": 1,
   "plugin": {
-    "name": "999 - My First Plugin",
+    "name": "",
     "entryPoint": "my-first-plugin.py",
     "categories": ["disassembly-and-processor-modules"],
     "logoPath": "idalogo.png",
