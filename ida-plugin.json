@@ -5,8 +5,8 @@
     "entryPoint": "my-first-plugin.py",
     "categories": ["disassembly-and-processor-modules"],
     "logoPath": "idalogo.png",
-    "idaVersions": "",
+    "idaVersions": "9.1",
     "description" : "999 - test description",
-    "version": "1.1.4"
+    "version": ""
   }
 }
