@@ -1,12 +1,12 @@
 {
   "IDAMetadataDescriptorVersion": 1,
   "plugin": {
-    "name": "My First Plugin",
+    "name": "999 - My First Plugin",
     "entryPoint": "my-first-plugin.py",
     "categories": ["disassembly-and-processor-modules"],
     "logoPath": "idalogo.png",
     "idaVersions": "9.1",
-    "description" : "test description",
+    "description" : "999 - test description",
     "version": "1.1.4"
   }
 }
