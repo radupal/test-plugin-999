@@ -14,12 +14,6 @@
 
 This plugin is ideal for reverse engineers, malware analysts, and vulnerability researchers who frequently deal with challenging binary structures.
 
-
-
----
-
-...
-
 ## 🚀 Installation
 
 ### Requirements
