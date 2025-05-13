@@ -19,7 +19,7 @@ This plugin is ideal for reverse engineers, malware analysts, and vulnerability 
 ## 🚀 Installation
 
 ### Requirements
-- IDA Pro version **8.3 – 9.3**
+- IDA Pro version **8.4 – 9.1**
 - Python **3.x** (configured with IDA)
 
 ### Steps
@@ -51,7 +51,7 @@ Optional parameters and configuration can be found in the top section of `functi
 
 ## ✅ Compatibility
 
-- **IDA Pro:** 8.3 to 9.3 (tested on 9.1, 9.2)
+- **IDA Pro:** 8.4 to 9.1 (tested on 9.1)
 - **Platforms:** Windows, Linux, macOS
 - **File Types:** PE, ELF, Mach-O (partial)
 
