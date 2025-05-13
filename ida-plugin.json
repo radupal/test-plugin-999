@@ -3,7 +3,7 @@
   "plugin": {
     "name": "Function Analyzer Plus",
     "entryPoint": "function_analyzer_plus.py",
-    "categories": ["analysis", "reverse-engineering", "disassembly-and-processor-modules"],
+    "categories": ["disassembly-and-processor-modules", "decompilation", "debugging-and-tracing"],
     "logoPath": "function_analyzer_logo.png",
     "idaVersions": "8.4 - 9.1",
     "description": "Function Analyzer Plus is a plugin that enhances IDA's function analysis capabilities by detecting hidden functions, generating control flow graphs, and offering advanced heuristics for obfuscated binaries.",
