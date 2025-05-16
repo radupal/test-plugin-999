@@ -6,6 +6,8 @@
 
 ## 🧩 About the Plugin
 
+
+
 **Function Analyzer Plus** improves IDA’s native capabilities by:
 - Detecting hidden or non-standard functions in binaries.
 - Visualizing control flow and call graphs.
